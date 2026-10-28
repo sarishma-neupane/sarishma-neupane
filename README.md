@@ -20,10 +20,10 @@ Fun fact: I get a genuine sense of satisfaction from fixing broken formatting an
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | Python, SQL, HTML5 |
+| **Languages** | Python, SQL, HTML |
 | **Data Libraries** | Pandas, NumPy |
 | **BI & Analytics** | Power BI, Microsoft Excel |
-| **Frameworks** | Bootstrap |
+
 
 ---
 
